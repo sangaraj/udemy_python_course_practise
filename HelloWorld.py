@@ -1,4 +1,5 @@
 #first comment in python
+#string can be written in single quotes and double quotes
 print("Hello Python")
 print(' this is my first program')
 
