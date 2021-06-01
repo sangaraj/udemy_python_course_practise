@@ -5,6 +5,8 @@
 print(1+2)
 a = 5
 b = 10
+d = 1.25
+print("the decimal value of d is {}" .format(d) )
 c = a + b
 print(c)
 #floast
