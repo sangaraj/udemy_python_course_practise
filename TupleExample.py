@@ -16,6 +16,8 @@ print(mix_fruits[1:3])
 # to delete tuple
 del mix_fruits
 
-#we can add, update or remove the tuples to do so we need to conver the tuple to string to list
-#then perform action and then recast it to tuple
+"""we can add, update or remove the tuples to do so we need to conver the tuple to string to list
+then perform action and then recast it to tuple
+
+"""
 
