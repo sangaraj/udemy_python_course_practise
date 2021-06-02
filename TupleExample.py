@@ -1,3 +1,7 @@
+#ordered
+#allow duplicates
+#immutable
+
 mix_fruits = ("apple", "banana", "orange","mango", 1)
 
 #tuple with single element should have , after the element
